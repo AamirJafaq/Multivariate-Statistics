@@ -1,2 +1,2 @@
 # Multivariate-Statistics-SemesterProject
-Multivariate Statistics
+Multivariate Statistics-SemesterProject
